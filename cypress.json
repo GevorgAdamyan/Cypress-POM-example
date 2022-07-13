@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://www.saucedemo.com",
+  "chromeWebSecurity": false,
+  "env": {
+    "USERNAME": "standard_user",
+    "PASSWORD": "secret_sauce"
+  }
+}
