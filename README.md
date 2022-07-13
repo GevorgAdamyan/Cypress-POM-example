@@ -15,11 +15,11 @@ npm install
  ```
 
 ## 2. Run tests using
-####Run tests in UI mode
+#### Run tests in UI mode
  ```shell
 npx cypress open
  ```
-####Run tests in Headless mode
+#### Run tests in Headless mode
  ```shell
 npx cypress run
  ```
